@@ -13,7 +13,7 @@ This project demonstrates an end-to-end business intelligence solution built usi
 
 ## Dashboard
 
-**Live Report:** *(Add your Power BI Service link here)*
+**Live Report:** https://app.powerbi.com/links/I9F7Xw3D6K?ctid=ebe02964-50ee-4b71-bb07-f2b46afe7d12&pbi_source=linkShare&bookmarkGuid=4a3cc6d0-935e-4d47-b8da-8bbd3aaef680
 
 **Dashboard Preview**
 
