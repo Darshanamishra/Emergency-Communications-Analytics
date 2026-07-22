@@ -17,12 +17,7 @@ This project demonstrates an end-to-end business intelligence solution built usi
 
 **Dashboard Preview**
 
-![Dashboard](images/dashboard.png)
-
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/Darshanamishra/Images/main/dashboard-sales.png)
-
-You can access the live dashboard here: [Speedle Sales Insight Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFiYzY0MGUtMWM5Mi00OWNlLTg5OTQtNzAzMTA3NjQ1ODVlIiwidCI6IjliMzQwYjg1LWNiZGUtNDY4MS1hNmQwLTBlMTI2MDk0MzYzMyJ9).
+![Dashboard](https://github.com/Darshanamishra/Emergency-Communications-Analytics/blob/main/images/Home%20Page.png)
 
 ## Key Metrics
 
